@@ -1,0 +1,19 @@
+/* Asteriks Wild Card Selector To Override Default Styles Added By The Browser */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header{
+    background-color: blueviolet;
+}
+/* Main Content */
+main{
+background-color: aqua;
+}
+/* Footer */
+footer{
+background-color: brown;
+}
