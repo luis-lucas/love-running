@@ -85,8 +85,9 @@ nav {
 /* Main Content */
 main{
 background-color: aqua;
-flex: 1 0 auto;
 /* make main element to take any surplus space to push footer down */
+flex: 1 0 auto;
+margin-top: 46px;
 }
 /* Footer */
 footer{
