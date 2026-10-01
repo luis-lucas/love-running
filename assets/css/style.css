@@ -125,3 +125,10 @@ background-color: brown;
         margin-top: 79px;
     }
 }
+
+/* Large devices (Laptop and desktop, 992px and larger */
+@media screen and (min-width: 922px) {
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+}
