@@ -219,7 +219,7 @@ hr {
     flex-grow: 1;
     height: 100vh;
 }
-#signup h1 {
+#signup h2 {
     color: #fafafa;
     text-align: center;
     margin: 30px 20px 30px 30px;
@@ -329,7 +329,7 @@ hr {
     max-width: 400px;
     margin: 150px 0 0 10%;
 }
-#signup-form h1 {
+#signup-form h2 {
     font-size: 20px;
 }
 .join-button:hover {
